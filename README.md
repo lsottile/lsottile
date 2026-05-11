@@ -1,4 +1,4 @@
-hey, i'm luciano 👋
+# hey, i'm luciano 👋
 
 nomad developer who tries to solve his own problems with simple apps
 
