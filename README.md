@@ -1,14 +1,12 @@
-# hey, soy Luciano 👋
+hey, i'm luciano 👋
 
-Desarrollador nómade que resuelve sus propios problemas con apps simples.
-
-Si no existe, lo construyo.
+nomad developer who tries to solve his own problems with simple apps
 
 ---
 
-**Últimas cosas que construí**
-- [trackiano](https://github.com/lsottile/trackiano) — bot de Telegram para trackear gastos con Notion
-- [site](https://github.com/lsottile/site) — mi sitio personal
+**things i've built**
+- [trackiano](https://github.com/lsottile/trackiano) — telegram bot to track expenses with notion
+- [site](https://github.com/lsottile/site) — personal website
 
 ---
 
